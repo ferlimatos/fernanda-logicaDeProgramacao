@@ -5,5 +5,8 @@
 
 razao = int(input('Digite a razão da tabuada: '))
 
+print(f'Tabuada de  {razao}:')
+
 for i in range(razao, razao * 11, razao):
+
     print(i)
