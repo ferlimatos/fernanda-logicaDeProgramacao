@@ -9,17 +9,18 @@ Dica: você precisará utilizar um acumulador para que
 cada vez que um número seja impresso, ele seja adicionado ao valor total.
 """
 
-var1 = int(input('Digite um número para ser start: '))
-var2 = int(input('Digite um número para ser stop: '))
-var3 = int(input('Digite um número para step: '))
+start = int(input('Digite um número para ser start: '))
+stop = int(input('Digite um número para ser stop: '))
+step = int(input('Digite um número para step: '))
 soma = 0
 
 # Mostrando os números gerados pelo range
 print('Números no intervalo escolhido: ')
 
-for numeros in range(var1, var2, var3):
+for numeros in range(start, stop, step):
     print(numeros, end=', ') 
     soma += numeros
 
 # Resultado da soma total
+
 print(f'A soma total dos números é: {soma}.')
