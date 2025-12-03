@@ -1,0 +1,9 @@
+# Exercício 3
+
+# O que é a "condição de parada" em um loop while e qual é um exemplo de sua aplicação?
+
+===================================
+
+Minha resposta:
+
+A condição de parada em um loop while é a condição que ao ser atendida (verdadeira) ou deixada de ser atendida (falsa), faz com que o loop pare de executar e saia da estrutura de repetição.

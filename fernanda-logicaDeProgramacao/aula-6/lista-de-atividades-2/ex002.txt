@@ -1,0 +1,9 @@
+# Exercício 2
+
+# Qual é a diferença fundamental no uso das estruturas de repetição for e while?
+
+===================================
+
+Minha resposta:
+
+O laço for é tipicamente usado quando se tem um número limitado ou pré-determinado de repetições. Já o laço while é usado para repetições de número desconhecido, que dependem de uma condição ser verdadeira ou falsa para continuar ou parar.
