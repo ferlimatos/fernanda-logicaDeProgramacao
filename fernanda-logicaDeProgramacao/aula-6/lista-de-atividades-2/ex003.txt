@@ -1,6 +1,6 @@
 # Exercício 3
 
-# O que é a "condição de parada" em um loop while e qual é um exemplo de sua aplicação?
+# O que significa a condição de parada em um loop while?
 
 ===================================
 
