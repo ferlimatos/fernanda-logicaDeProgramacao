@@ -1,6 +1,7 @@
 # Exercício 1
 
-# Explique a ordem de leitura e execução das estruturas condicionais if, elif e else por um computador, e o que significa a condição else.
+# Explique, com suas palavras, como o computador decide qual bloco if, elif ou else será
+executado.
 
 ===================================
 
@@ -8,11 +9,11 @@ Minha resposta:
 
 O computador lê as condições na ordem: primeiro if, depois elif, e por último else.
 
-- if: É executado primeiro se a sua condição for atendida (verdadeira).
+- if: é executado primeiro se a sua condição for atendida (verdadeira).
   
-- elif: É executado somente se a condição anterior (if) não foi atendida, mas a condição do elif é atendida (verdadeira).
+- elif: é executado somente se a condição anterior (if) não foi atendida, mas a condição do elif é atendida (verdadeira).
   
-- else: É executado por último e significa que nenhuma das condições anteriores (if ou elif) foi atendida.
+- else: é executado por último e significa que nenhuma das condições anteriores (if ou elif) foi atendida.
 
 Exemplo de uso:
 x = int(input("Digite um número inteiro: ))
