@@ -1,11 +1,9 @@
 # Exercício 6
 
-# Diferencie os conceitos de Contador e Acumulador em programação.
+# Explique a diferença entre contador e acumulador e como eles se comportam.
 
 ===================================
 
 Minha resposta:
 
-O contador é uma variável que identifica quantas vezes uma ação ou iteração foi realizada. É incrementado em um valor constante a cada vez que é acionado, servido para controlar o número de execuções do loop.
-
-Já o acumulador é uma variável que soma uma quantidade (que pode ser variável) toda vez que é acionado. Serve para calcular a soma total ou a operação de valores recebidos ao longo do tempo.
+O contador é uma variável que aumenta de valor a cada repetição, normalmente de 1 em 1. Já o acumulador soma valores ao longo do loop, guardando resultados progressivos. O contador conta repetições; o acumulador soma resultados.
