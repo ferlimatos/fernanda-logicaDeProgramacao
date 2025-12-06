@@ -1,6 +1,6 @@
 # Lógica e Programação
 
-Este repositório serve como um caderno digital e portfólio para os exercícios, projetos e conceitos aprendidos na disciplina de Lógica e Programação. O foco principal é no desenvolvimento do pensamento lógico e na aplicação desses conceitos utilizando a linguagem Python.
+Este repositório serve como um caderno digital e portfólio para os exercícios, projetos e conceitos aprendidos na disciplina de Lógica e Programação do curso técnico de Desenvolvimento Web e Mobile da [Escola do Futuro José Luiz Bittencourt](https://efg.org.br/goiania) em Goiânia. O foco principal é no desenvolvimento do pensamento lógico e na aplicação desses conceitos utilizando a linguagem Python.
 
 ## Sobre a Disciplina
 A disciplina abrange os fundamentos essenciais para qualquer desenvolvedor, independentemente da linguagem de programação. Os tópicos principais incluem:
