@@ -1,17 +1,13 @@
 # Exercício 5
 
-# Explique a função range(), seus parâmetros e que números ela gera com um exemplo.
+# Explique a função do comando range(start, stop, step) e descreva o papel de cada
+parâmetro e qual parâmetro é obrigatório.
 
 ===================================
 
 Minha resposta:
 
-A função range() gera uma sequência de números e é utilizada para iterar uma quantidade específica de vezes. O parâmetro stop é obrigatório.
-
-Os parâmetros da função range() são:
-- Start: O número inicial da sequência.
-- Stop: O número final da sequência (obrigatório), sendo que o número Stop em si não é incluído na sequência.
-- Step: O valor de incremento entre os números (opcional).
+O comando range(start, stop, step) gera uma sequência numérica. O start define onde começa (opcional), o stop define onde termina e é o único parâmetro obrigatório, e o step define o incremento entre os valores (opcional).
 
 Exemplo: 
 
