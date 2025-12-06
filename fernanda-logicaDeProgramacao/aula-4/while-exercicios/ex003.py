@@ -1,4 +1,6 @@
-# Tem que usar while para fazer a soma dos números
+# Exercício 3
+
+# Leia 5 números digitados pelo usuário e imprima a soma deles.
 
 soma = 0
 contador = 1

@@ -3,12 +3,12 @@
 # Peça para que o usuário digite o start, stop, step do seu range 
 # e imprima o resultado em uma mesma linha.
 
-var1 = int(input('Digite um número para ser start: '))
-var2 = int(input('Digite um número para ser stop: '))
-var3 = int(input('Digite um número para step: '))
+start = int(input('Digite um número para ser start: '))
+stop = int(input('Digite um número para ser stop: '))
+step = int(input('Digite um número para step: '))
 
 print('Números no intervalo escolhido: ')
-for numeros in range(var1, var2, var3):
+for numeros in range(start, stop, step):
     print(numeros, end = ', ')
 
 # Explicação: Neste exemplo, o parâmetro `end=", "` é 

@@ -4,4 +4,4 @@
 # (utilize end=' ')
 
 for i in range(0, 51, 7):
-    print(i, end=' ')
+    print(i, end = " ")

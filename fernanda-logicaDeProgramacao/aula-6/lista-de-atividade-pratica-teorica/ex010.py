@@ -7,8 +7,6 @@
 # c. Compras acima de R$ 100 podem ser parceladas em até 2 vezes;
 # d. Compras acima de R$ 200 podem ser parceladas em até 3 vezes.
 
-'''==================================='''
-
 '''Minha resposta:'''
 
 quantidade_itens = 0
